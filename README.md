@@ -7,7 +7,8 @@
     <a href="https://www.instagram.com/omnicwolf/" target="_blank" rel="noopener"><img src="./images/instagram-badge.svg" height=25></a>
 </p>
 
-<p>My developer profile! ^.^ – <a href="https://github.com/Ryo112358">Ryo112358</a></p>
+<p>:newspaper: I develop web apps :iphone: – <a href="https://github.com/Ryo112358">Ryo112358</a></p>
+<p>:floppy_disk: I solve problems :school_satchel: – <a href="https://github.com/CoffeelessProgrammer">CoffeelessProgrammer</a></p>
 
 <!--
 **CoffeelessProgrammer/CoffeelessProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
