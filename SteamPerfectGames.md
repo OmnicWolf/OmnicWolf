@@ -1,6 +1,7 @@
 # Steam: 100% Completion
 
-- ABZU
+- ABZÛ
+- Beyond Blue
 - Bad North
 - Biped
 - Doodle God
@@ -14,14 +15,17 @@
 - Rocket League
 - Samorost 3
 - A Short Hike
+- Tiny Lands
 - Trine
 - Trine 2
-
-### Limited Profile Features
-- Apotheker
-- Mini Tone
+- Apotheker*
+- Unlock the Cat*
+- Wordle 2*
+- Mini Tone*
 
 ## Completed by Ninjaranchan
 - Carto
 - It Takes Two
 - Alba: A Wildlife Adventure
+
+*Limited Steam Profile Features
