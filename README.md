@@ -2,9 +2,10 @@
 
 <p>
     <a href="https://steamcommunity.com/id/OmnicWolf/" target="_blank" rel="noopener"><img src="./images/omnicwolf-steam-badge.svg" height=25></a>
-    <a href="https://medium.com/@OmnicWolf" target="_blank" rel="noopener"><img src="./images/medium-badge.svg" height=25></a>
+    <a href="https://open.spotify.com/user/1215960767" target="_blank" rel="noopener"><img src="./images/spotify-badge.svg" height=25></a>
     <a href="https://twitter.com/OmnicWolf" target="_blank" rel="noopener"><img src="./images/twitter-badge.svg" height=25></a>
     <a href="https://www.instagram.com/omnicwolf/" target="_blank" rel="noopener"><img src="./images/instagram-badge.svg" height=25></a>
+    <a href="https://medium.com/@OmnicWolf" target="_blank" rel="noopener"><img src="./images/medium-badge.svg" height=25></a>
 </p>
 
 <p>:newspaper: I develop web apps :iphone: – <a href="https://github.com/Ryo112358">Ryo112358</a></p>
